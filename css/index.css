@@ -1,0 +1,63 @@
+.index-logo {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+.index-logo > img {
+    height: 120px;
+    margin: 15px auto;
+}
+.index-btn {
+    width: 90%;
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    border: 1px solid #0c60a2;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.index-icon-box {
+    border-top: 1px solid #ccc;
+}
+.index-icon-btn {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+}
+.index-icon-list {
+    padding: 0 10px;
+}
+.index-icon-title {
+    width: 100%;
+    padding: 20px 0 5px;
+}
+.index-icon-list-box {
+    width: 100%;
+    flex-wrap: wrap;
+    overflow: hidden;
+    height: 210px;
+}
+.index-icon-item {
+    width: 23%;
+    height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 1% 5px;
+}
+.index-icon-item > img {
+    height: 50px;
+    width: 50px;
+    margin: 10px auto;
+}
+.index-icon-text {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+.index-h-auto {
+    height: auto;
+}

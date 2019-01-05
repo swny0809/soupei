@@ -1,0 +1,43 @@
+.car-head {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.car-head-img {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.car-head-text {
+    padding: 0 10px;
+}
+.car-box {
+    padding: 20px 10px 10px 10px;
+    border-bottom: 1px solid #ccc;
+}
+.car-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px 20%;
+}
+.car-item-img {
+    width: 40px;
+    height: 40px;
+}
+.car-item-text {
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+.car-footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.car-footer-btn {
+    font-size: 15px;
+    border: 1px solid #ffffff;
+    padding: 10px 0;
+}

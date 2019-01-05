@@ -1,0 +1,17 @@
+.list-head {
+    height: 110px;
+    border-bottom: 1px solid #ccc;
+    line-height: 110px;
+    font-size: 22px;
+}
+.list-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.showOE {
+    padding-left: 10px;
+    font-size: 13px;
+}
+.showDetail {
+    font-size: 13px;
+}

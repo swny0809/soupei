@@ -1,0 +1,36 @@
+.bd-icon-box {
+    width: 100%;
+    height: 130px;
+    text-align: center;
+}
+.bd-icon-img {
+    width: 60px;
+    height: 60px;
+    margin: 35px auto;
+}
+.bd-title {
+    height: 45px;
+    line-height: 45px;
+    padding-left: 10px;
+}
+.bd-item-title {
+    height: 45px;
+    line-height: 45px;
+    padding-left: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.bd-item-child {
+    padding: 0 10px;
+    border-bottom: 1px solid #ccc;
+}
+.bd-child-item {
+    height: 45px;
+    line-height: 45px;
+    padding-left: 10px;
+}
+.bd-child-item + .bd-child-item {
+    border-top: 1px solid #ccc; 
+}
+.bd-child-item-arrow {
+    padding-right: 10px;
+}

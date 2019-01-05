@@ -1,0 +1,25 @@
+.type-icon-box {
+    width: 100%;
+    height: 130px;
+    text-align: center;
+}
+.type-icon-img {
+    width: 60px;
+    height: 60px;
+    margin: 35px auto;
+}
+.type-title {
+    height: 45px;
+    line-height: 45px;
+    padding-left: 10px;
+}
+.type-item {
+    border-bottom: 1px solid #ccc;
+    padding: 15px 10px;
+}
+.type-item-top > div {
+    font-size: 16px;
+}
+.type-item-bottom {
+    font-size: 13px;
+}

@@ -1,0 +1,37 @@
+body, body * {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-style: none;
+    text-decoration: none;
+}
+.com-blue {
+    color: #0c60a2;
+}
+.com-bg-blue {
+    background: #0c60a2;
+}
+.com-white {
+    color: white;
+}
+.com-thegray {
+    color: #777777;
+}
+.com-flex-row {
+    flex-direction: row;
+}
+.com-flex-one {
+    flex: 1;
+}
+.hidden {
+    display: none !important;
+}
+.com-ta-c {
+    text-align: center;
+}
+.com-ta-r {
+    text-align: right;
+}
