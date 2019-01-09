@@ -18,4 +18,10 @@
     $('.index-icon-item').click(function(){
         location.href = "./brandDetail.html"
     });
+    $('#goVin').click(function(){
+        location.href = "./vin.html"
+    });
+    $('#goQuery').click(function(){
+        location.href = "./query.html"
+    });
 })();

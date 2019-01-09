@@ -14,8 +14,14 @@ body, body * {
 .com-bg-blue {
     background: #0c60a2;
 }
+.com-bg-lightblue {
+    background: #4798d8;
+}
 .com-white {
     color: white;
+}
+.com-bg-white {
+    background: white;
 }
 .com-thegray {
     color: #777777;

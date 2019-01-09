@@ -1,0 +1,30 @@
+.vin-logo {
+    height: 150px;
+    border-bottom: 1px solid #ccc;
+}
+.vin-logo > img {
+    height: 150px;
+}
+.vin-input-box {
+    width: 90%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 5%;
+    border: 1px solid #ccc;
+}
+.vin-search {
+    border-left: 1px solid #ccc;
+    width: 50px;
+    text-align: center;
+}
+.vin-search > i {
+    line-height: 50px;
+    font-size: 30px;
+}
+.vin-input {
+    padding: 10px;
+}
+.vin-input > input {
+    height: 30px;
+    line-height: 30px;
+}

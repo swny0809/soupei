@@ -1,0 +1,51 @@
+body {
+    background: #efefef;
+}
+.vin-logo {
+    height: 150px;
+    border-bottom: 1px solid #ccc;
+}
+.vin-logo > img {
+    height: 150px;
+}
+.vin-input-box {
+    width: 90%;
+    height: 50px;
+    margin-left: 5%;
+    border: 1px solid #ccc;
+}
+.vin-search {
+    border-left: 1px solid #ccc;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 16px;
+}
+.vin-input {
+    padding: 10px;
+}
+.vin-input > input {
+    height: 30px;
+    line-height: 30px;
+}
+.query-tab {
+    margin-top: 20px;
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 5%;
+    border-radius: 5px 5px 0 0;
+    font-size: 12px
+}
+.query-list-item {
+    padding: 3px 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.query-list {
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 5%;
+    justify-content: space-between;
+}
