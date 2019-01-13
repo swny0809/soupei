@@ -23,3 +23,20 @@
 .type-item-bottom {
     font-size: 13px;
 }
+.type-select-box {
+    padding-bottom: 10px;
+}
+.type-select-box > div {
+    justify-content: center;
+    width: 100%;
+}
+.type-select-item {
+    width: 90%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 5%;
+}
+.type-select-dr {
+    line-height: 24px;
+}
