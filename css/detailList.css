@@ -1,0 +1,21 @@
+.list-item-img {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+}
+.list-item-img > img {
+    width: 90px;
+    height: 90px;
+}
+.list-item-box {
+    padding: 8px;
+}
+.list-item {
+    border-bottom: 1px solid #eee
+}
+.com-red {
+    margin-right: 8px;
+}
+.list-item-name {
+    margin-bottom: 8px;
+}

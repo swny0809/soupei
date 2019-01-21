@@ -1,7 +1,8 @@
 (function(){
     $('.showDetail').click(function(){
-        $('.list-cover').removeClass("hidden");
-        $('.list-detail-box').removeClass("hidden");
+        // $('.list-cover').removeClass("hidden");
+        // $('.list-detail-box').removeClass("hidden");
+        location.href = "./detailList.html";
     });
     $('.showOE').click(function(){
         $('.list-cover').removeClass("hidden");

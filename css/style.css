@@ -11,6 +11,9 @@ body, body * {
 .com-blue {
     color: #0c60a2;
 }
+.com-red {
+    color: red;
+}
 .com-bg-blue {
     background: #0c60a2;
 }

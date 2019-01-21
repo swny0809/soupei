@@ -1,5 +1,5 @@
 (function(){
     $(".vin-search").click(function(){
-        location.href = "./type.html"
+        location.href = "./year.html"
     });
 })()

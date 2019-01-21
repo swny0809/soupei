@@ -3,7 +3,8 @@
     border-bottom: 1px solid #ccc;
 }
 .vin-logo > img {
-    height: 150px;
+    height: 120px;
+    margin: 15px auto;
 }
 .vin-input-box {
     width: 90%;

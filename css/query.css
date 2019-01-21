@@ -1,5 +1,9 @@
+html {
+    height: 100%;
+}
 body {
     background: #efefef;
+    height: 100%;
 }
 .vin-logo {
     height: 150px;
@@ -48,4 +52,21 @@ body {
     margin-top: 10px;
     margin-left: 5%;
     justify-content: space-between;
+}
+.vin-input-more {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    position: absolute;
+    top: 55px;
+}
+
+.vin-input-more-item {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+}
+.vin-mid {
+    position: relative;
+    width: 100%;
 }
