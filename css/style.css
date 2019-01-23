@@ -8,6 +8,9 @@ body, body * {
     font-style: none;
     text-decoration: none;
 }
+input {
+    border: none;
+}
 .com-blue {
     color: #0c60a2;
 }

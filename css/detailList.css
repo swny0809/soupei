@@ -19,3 +19,27 @@
 .list-item-name {
     margin-bottom: 8px;
 }
+.list-head {
+    height: 40px;
+    justify-content: center;
+    padding: 0 40px;
+}
+.list-input-box {
+    height: 30px;
+    border-radius: 15px;
+    line-height: 30px;
+    padding: 0 10px;
+}
+.list-input-box i{
+    line-height: 30px;
+    font-size: 20px;
+}
+.list-input-box input {
+    padding: 0 5px;
+}
+.list-head-setting {
+    position: absolute;
+    top: 9px;
+    right: 9px;
+    font-size: 22px;
+}
