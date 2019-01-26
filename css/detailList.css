@@ -36,10 +36,12 @@
 }
 .list-input-box input {
     padding: 0 5px;
+    width: 90%;
 }
 .list-head-setting {
     position: absolute;
     top: 9px;
     right: 9px;
-    font-size: 22px;
+    width: 22px;
+    height: 22px;
 }
